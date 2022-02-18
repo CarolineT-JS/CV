@@ -1,0 +1,7 @@
+.Navbar{
+    -webkit-box-shadow: 1px 1px 5px 1px navajowhite;
+    box-shadow: 1px 1px 5px #3f3f3f;
+}
+.navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-brand{
+    color: navajowhite !important;
+}
